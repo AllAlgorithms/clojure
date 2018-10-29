@@ -1,4 +1,4 @@
-(ns sorting/bubble-sort)
+(ns sorting.bubble-sort)
 
 (defn- bubble [ys x]
   (if-let [y (peek ys)]
