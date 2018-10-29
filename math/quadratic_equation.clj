@@ -1,4 +1,4 @@
-(ns math/quadratic-equation)
+(ns math.quadratic-equation)
 
 (defn calculate-delta
       [a b c]
